@@ -1,0 +1,11 @@
+{
+  "WorkTimes": {
+    "Start": "8:30",
+    "Tolerance": "15", //minute
+    "WorkTime": "8:30"
+  },
+  "Data": {
+    "Input": "Input.txt",
+    "Output": "Output.csv"
+  }
+}
